@@ -1,0 +1,31 @@
+1.
+Project - https://spravka.by/ 
+Environment - Firefox Browser -88.0.1Firefox Release
+Failier -  Incorrect display of text in the Add Organization field at the top of the page
+Attachment - file spravka.by.png
+
+2
+Project - https://rozetka.by/
+Environment - Firefox Browser -88.0.1Firefox Release
+Failier - Error in the greeting text on the home page " Доброго пожаловать в Rozetka.By
+Attachment - file greeting text rozetka.by.png
+
+3
+Project - https://rozetka.by/about-us/
+Environment - Firefox Browser -88.0.1Firefox Release
+Failier - Not the validity of the page when you go to the "About us" section"
+Attachment - file not a valid page razetka.by.png
+
+4 
+Project - http://pavelanna.by/index.html
+Environment - Firefox Browser -88.0.1Firefox Release
+Component - footer
+Failier - The ability to send a request after entering invalid data in the "your phone" line when you click "Send".
+ 
+5
+Project - http://osit-borisov.by/ru/
+Environment - Google Chrome Версия 90.0.4430.212 (Официальная сборка), (32 бит)
+Failier An error appears in the console when refreshing the page (status of 404)
+Attachment fail osit-borisov.by ru 5.png
+
+
